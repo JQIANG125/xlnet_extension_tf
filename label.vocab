@@ -1,0 +1,13 @@
+<pad> 
+O 
+X 
+<cls> 
+<sep> 
+B-LOC 
+B-MISC 
+B-ORG 
+B-PER 
+I-LOC 
+I-MISC 
+I-ORG 
+I-PER
