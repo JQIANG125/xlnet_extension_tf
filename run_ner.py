@@ -14,7 +14,7 @@ import tensorflow as tf
 import numpy as np
 import sentencepiece as sp
 
-from xlnet import xlnet
+from . import xlnet
 import prepro_utils
 import model_utils
 
